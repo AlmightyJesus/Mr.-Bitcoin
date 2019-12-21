@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Mr.-Bitcoin/static/css/main.92d6d566.chunk.css",
-    "main.js": "/Mr.-Bitcoin/static/js/main.101261b7.chunk.js",
-    "main.js.map": "/Mr.-Bitcoin/static/js/main.101261b7.chunk.js.map",
+    "main.css": "/Mr.-Bitcoin/static/css/main.3d2801e6.chunk.css",
+    "main.js": "/Mr.-Bitcoin/static/js/main.7690c7cd.chunk.js",
+    "main.js.map": "/Mr.-Bitcoin/static/js/main.7690c7cd.chunk.js.map",
     "runtime-main.js": "/Mr.-Bitcoin/static/js/runtime-main.948cee6d.js",
     "runtime-main.js.map": "/Mr.-Bitcoin/static/js/runtime-main.948cee6d.js.map",
-    "static/js/2.c166bea9.chunk.js": "/Mr.-Bitcoin/static/js/2.c166bea9.chunk.js",
-    "static/js/2.c166bea9.chunk.js.map": "/Mr.-Bitcoin/static/js/2.c166bea9.chunk.js.map",
+    "static/js/2.b02c39b4.chunk.js": "/Mr.-Bitcoin/static/js/2.b02c39b4.chunk.js",
+    "static/js/2.b02c39b4.chunk.js.map": "/Mr.-Bitcoin/static/js/2.b02c39b4.chunk.js.map",
     "index.html": "/Mr.-Bitcoin/index.html",
-    "precache-manifest.71601e0247c3d0e491e403bf32f71067.js": "/Mr.-Bitcoin/precache-manifest.71601e0247c3d0e491e403bf32f71067.js",
+    "precache-manifest.82c7ae003f5a3e4adbdcd35c22a520c6.js": "/Mr.-Bitcoin/precache-manifest.82c7ae003f5a3e4adbdcd35c22a520c6.js",
     "service-worker.js": "/Mr.-Bitcoin/service-worker.js",
-    "static/css/main.92d6d566.chunk.css.map": "/Mr.-Bitcoin/static/css/main.92d6d566.chunk.css.map",
-    "static/js/2.c166bea9.chunk.js.LICENSE": "/Mr.-Bitcoin/static/js/2.c166bea9.chunk.js.LICENSE",
+    "static/css/main.3d2801e6.chunk.css.map": "/Mr.-Bitcoin/static/css/main.3d2801e6.chunk.css.map",
+    "static/js/2.b02c39b4.chunk.js.LICENSE": "/Mr.-Bitcoin/static/js/2.b02c39b4.chunk.js.LICENSE",
     "static/media/bitcoin.png": "/Mr.-Bitcoin/static/media/bitcoin.1826ecc4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.948cee6d.js",
-    "static/js/2.c166bea9.chunk.js",
-    "static/css/main.92d6d566.chunk.css",
-    "static/js/main.101261b7.chunk.js"
+    "static/js/2.b02c39b4.chunk.js",
+    "static/css/main.3d2801e6.chunk.css",
+    "static/js/main.7690c7cd.chunk.js"
   ]
 }
